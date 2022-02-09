@@ -14,10 +14,12 @@ header{
 grid-column: 1/4;
 grid-row: 1/2;
 }
+
 .contenidoCentral{
     grid-column: 2/3;
     grid-row: 2/3;
 }
+
 footer{
     grid-column: 3/4;
     grid-row: 3/4;
