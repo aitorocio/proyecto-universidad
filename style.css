@@ -8,3 +8,12 @@
 @import "./css/grid.css";
 @import "./css/layout.css";
 @import "./css/mediaquery.css";
+
+
+
+/*  */
+body{
+    height: 100vh;
+    background-image: url("./img/fondo.jpg");
+}
+
