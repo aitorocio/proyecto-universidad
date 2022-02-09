@@ -12,7 +12,7 @@
 
 body{
     height: 100vh;
-    background-image: src("img/fondo.jpg");
+    background-image: url("img/fondo.jpg");
 }
 
 header, main, footer{
