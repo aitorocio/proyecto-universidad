@@ -3,6 +3,7 @@
 
 
 .contenido{
+    height: 100%;
     display:grid;
     grid-template-columns: 20% 60% 20%;
     grid-template-rows: 10% 80% 10%;
@@ -12,7 +13,7 @@
 
 header{
 grid-column: 1/4;
-grid-row: 1/2;
+grid-row: 2/4;
 }
 
 .contenidoCentral{
@@ -21,6 +22,8 @@ grid-row: 1/2;
 }
 
 footer{
+    display: flex;
     grid-column: 3/4;
     grid-row: 3/4;
+    align-items: center;
 }
