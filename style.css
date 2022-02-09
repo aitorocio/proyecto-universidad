@@ -10,6 +10,10 @@
 @import "./css/mediaquery.css";
 
 
+body{
+    height: 100vh;
+    background-image: src("img/fondo.jpg");
+}
 
 header, main, footer{
     display:grid;
