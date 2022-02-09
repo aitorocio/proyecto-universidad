@@ -17,4 +17,11 @@ header, main, footer{
     gap:20px;
 }
 
+header .logo, .contenidoCentral{
+    grid-column:2/3;
+}
 
+header .menu, section .redes{
+    grid-column: 3/4;
+
+}
